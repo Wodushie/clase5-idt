@@ -1,0 +1,40 @@
+#gris
+{
+    height: 800px;
+    width: 1000px;
+    background-color: gray;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#amarillo{
+    width: 980px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+}
+
+#negro{
+    background-color: black;
+    width: 980px;
+    height: 180px;
+    margin-left: 10px;
+    clear: both;
+}
+
+#rojo{
+    width: 290px;
+    height: 500px;
+    float: right;
+    margin-right: 10px;
+    background-color: red;
+}
+
+#azul{
+    width: 680px;
+    height: 400px;
+    background-color: blue;
+    float: left;
+    margin-left: 10px;
+}
